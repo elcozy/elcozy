@@ -76,6 +76,6 @@
 
 ## Some Programming Humor for you 😉
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
 
 ![Profile last updated](https://img.shields.io/github/last-commit/elcozy/elcozy/master?label=Last%20updated&style=flat&color=120024)
