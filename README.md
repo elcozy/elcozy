@@ -12,7 +12,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat&logoColor=white&link=https://www.linkedin.com/in/chiemekam/)](https://www.linkedin.com/in/chiemekam/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?logo=medium&style=flat&logoColor=white&link=https://www.medium.com/@elcozy/)](https://www.medium.com/@elcozy)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&style=flat&logoColor=white&link=https://www.hackerrank.com/elcozy/)](https://www.hackerrank.com/elcozy)
-[![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?logo=LeetCode&style=flat&logoColor=white&link=https://www.leetcode.com/elcozy/)](https://www.leetcode.com/elcozy)
 
 </div>
 
@@ -32,7 +31,6 @@
 
 <div>
       <a href="https://reactjs.org/" target="_blank"> <img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> </a>
- 
     <a href="https://nextjs.org/" target="_blank"> <img style="margin: 5px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="25" height="25" /> </a><a href="https://babeljs.io/" target="_blank"> <img style="margin: 5px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="25" height="25" /> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="25" height="25" /> </a>
     <a href="https://www.chartjs.org" target="_blank"> <img style="margin: 5px" src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="25" height="25" /> </a>
@@ -45,10 +43,8 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
     </a>
-
     <a href="https://nodejs.org" target="_blank"> <img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" /> </a>
    <a href="https://postman.com" target="_blank"> <img style="margin: 5px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25" /> </a>
-
     <a href="https://sass-lang.com" target="_blank"> <img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25" /> </a>
     <a href="https://travis-ci.org" target="_blank"> <img style="margin: 5px" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="25" height="25" /> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" /> </a>
@@ -65,15 +61,15 @@
 <table>
    <tr>
       <td valign="top">
-         <img src="https://github-readme-stats.vercel.app/api?username=elcozy&show_icons=true&count_private=true&hide_border=true&theme=github-light" align="left" style="width: 100%" />
+         <img src="https://github-readme-stats.vercel.app/api?username=elcozy&show_icons=true&count_private=true&hide_border=true&theme=blueberry_duo" align="left" style="width: 100%" />
       </td>
       <td valign="top">
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=elcozy&theme=github-light" align="left" style="width: 100%" />
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=elcozy&theme=blueberry_duo" align="left" style="width: 100%" />
       </td>
    </tr>
    <tr>
       <td valign="top" colspan="2">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcozy&hide_border=true&layout=compact&theme=sgithub-light" align="left" style="width: 100%" />
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcozy&hide_border=true&layout=compact&theme=blueberry_duo" align="left" style="width: 100%" />
       </td>
    </tr>
 </table>
