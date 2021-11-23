@@ -61,15 +61,15 @@
 <table>
    <tr>
       <td valign="top">
-         <img src="https://github-readme-stats.vercel.app/api?username=elcozy&show_icons=true&count_private=true&hide_border=true&theme=neon-palenight" align="left" style="width: 100%" />
+         <img src="https://github-readme-stats.vercel.app/api?username=elcozy&show_icons=true&count_private=true&hide_border=true&theme=react" align="left" style="width: 100%" />
       </td>
       <td valign="top">
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=elcozy&theme=neon-palenight" align="left" style="width: 100%" />
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=elcozy&theme=react" align="left" style="width: 100%" />
       </td>
    </tr>
    <tr>
       <td valign="top" colspan="2">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcozy&hide_border=true&layout=compact&theme=neon-palenight" align="left" style="width: 100%" />
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcozy&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" />
       </td>
    </tr>
 </table>
@@ -78,4 +78,4 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
 
-![Profile last updated](https://img.shields.io/github/last-commit/emp-daisy/emp-daisy/master?label=Last%20updated&style=flat&color=120024)
+![Profile last updated](https://img.shields.io/github/last-commit/elcozy/elcozy/master?label=Last%20updated&style=flat&color=120024)
