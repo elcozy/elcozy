@@ -61,15 +61,15 @@
 <table>
    <tr>
       <td valign="top">
-         <img src="https://github-readme-stats.vercel.app/api?username=elcozy&show_icons=true&count_private=true&hide_border=true&theme=blueberry_duo" align="left" style="width: 100%" />
+         <img src="https://github-readme-stats.vercel.app/api?username=elcozy&show_icons=true&count_private=true&hide_border=true&theme=neon-palenight" align="left" style="width: 100%" />
       </td>
       <td valign="top">
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=elcozy&theme=blueberry_duo" align="left" style="width: 100%" />
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=elcozy&theme=neon-palenight" align="left" style="width: 100%" />
       </td>
    </tr>
    <tr>
       <td valign="top" colspan="2">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcozy&hide_border=true&layout=compact&theme=blueberry_duo" align="left" style="width: 100%" />
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcozy&hide_border=true&layout=compact&theme=neon-palenight" align="left" style="width: 100%" />
       </td>
    </tr>
 </table>
