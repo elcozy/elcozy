@@ -31,7 +31,7 @@
 
 <div>
       <a href="https://reactjs.org/" target="_blank"> <img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> </a>
-    <a href="https://nextjs.org/" target="_blank"> <img style="margin: 5px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="25" height="25" /> </a><a href="https://babeljs.io/" target="_blank"> <img style="margin: 5px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="25" height="25" /> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="25" height="25" /> </a><a href="https://babeljs.io/" target="_blank"> <img style="margin: 5px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="25" height="25" /> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="25" height="25" /> </a>
     <a href="https://www.chartjs.org" target="_blank"> <img style="margin: 5px" src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="25" height="25" /> </a>
     <a href="https://circleci.com" target="_blank"> <img style="margin: 5px" src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="25" height="25" /> </a>
