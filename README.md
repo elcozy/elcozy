@@ -17,9 +17,9 @@
 
 <br/>
 
-- 🌱 I’m currently learning **NodeJS**
+<!-- - 🌱 I’m currently learning **NodeJS**  -->
 
-- 👯 I’m looking to collaborate on **interesting and fun projects**
+- 👯 I am open to collaborate on **interesting and fun projects**
 
 - 💬 Ask me about **Javascript and related technologies**
 
