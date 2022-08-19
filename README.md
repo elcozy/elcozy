@@ -65,7 +65,7 @@
          <img src="https://github-readme-stats.vercel.app/api?username=elcozy&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="left" style="width: 100%" />
       </td>
       <td valign="top">
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=elcozy&theme=github_dark" align="left" style="width: 100%" />
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=elcozy&theme=react" align="left" style="width: 100%" />
       </td>
    </tr>
    <tr>
