@@ -7,8 +7,9 @@
 
 
 <!-- Connect with me -->
-[![Visits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felcozy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)]([https://hits.seeyoufarm.com](https://github.com/elcozy))
+
 <!--  [![Visits Badge](https://badges.pufler.dev/visits/elcozy/elcozy?label=Profile%20views&style=flat&color=120024)](https://elcozy.github.io/)  -->
+[![Visits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felcozy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)]([https://hits.seeyoufarm.com](https://github.com/elcozy))
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat&logoColor=white&link=https://www.linkedin.com/in/chiemekam/)](https://www.linkedin.com/in/chiemekam/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?logo=medium&style=flat&logoColor=white&link=https://www.medium.com/@elcozy/)](https://www.medium.com/@elcozy)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&style=flat&logoColor=white&link=https://www.hackerrank.com/elcozy/)](https://www.hackerrank.com/elcozy)
