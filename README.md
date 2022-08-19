@@ -70,7 +70,7 @@
    </tr>
    <tr>
       <td valign="top" colspan="2">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcozy&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" />
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcozy&hide_border=true&layout=compact&theme=github_dark" align="left" style="width: 100%" />
       </td>
    </tr>
 </table>
