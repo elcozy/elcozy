@@ -62,10 +62,10 @@
 <table>
    <tr>
       <td valign="top">
-         <img src="https://github-readme-stats.vercel.app/api?username=elcozy&show_icons=true&count_private=true&hide_border=true&theme=react" align="left" style="width: 100%" />
+         <img src="https://github-readme-stats.vercel.app/api?username=elcozy&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="left" style="width: 100%" />
       </td>
       <td valign="top">
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=elcozy&theme=react" align="left" style="width: 100%" />
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=elcozy&theme=github_dark" align="left" style="width: 100%" />
       </td>
    </tr>
    <tr>
@@ -77,6 +77,6 @@
 
 ## Some Programming Humor for you 😉
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=github_dark)
 
 ![Profile last updated](https://img.shields.io/github/last-commit/elcozy/elcozy/master?label=Last%20updated&style=flat&color=120024)
