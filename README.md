@@ -8,7 +8,7 @@
 
 <!-- Connect with me -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/elcozy/elcozy?label=Profile%20views&style=flat&color=120024)](https://elcozy.github.io/)
+<!--  [![Visits Badge](https://badges.pufler.dev/visits/elcozy/elcozy?label=Profile%20views&style=flat&color=120024)](https://elcozy.github.io/)  -->
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat&logoColor=white&link=https://www.linkedin.com/in/chiemekam/)](https://www.linkedin.com/in/chiemekam/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?logo=medium&style=flat&logoColor=white&link=https://www.medium.com/@elcozy/)](https://www.medium.com/@elcozy)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&style=flat&logoColor=white&link=https://www.hackerrank.com/elcozy/)](https://www.hackerrank.com/elcozy)
