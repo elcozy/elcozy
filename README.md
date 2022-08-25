@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-<!--
-**elcozy/elcozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- **elcozy/elcozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Connect with me -->
 
@@ -15,14 +12,13 @@
 </div>
 <br/>
 
-<!-- - 🌱 I’m currently learning **NodeJS**  -->
+<!-- - 🌱 I’m currently learning **C**  -->
 
 - 👯 I am open to collaborate on **interesting and fun projects**
 
 - 💬 Ask me about **Javascript and related technologies**
 
 - 📫 How to reach me: **Badges 👆🏽**
-
 <br />
 ## Languages and Tools
 
