@@ -20,7 +20,8 @@
 
 - 📫 How to reach me: **Badges 👆🏽**
 <br />
-### Languages and Tools
+
+## Languages and Tools
 
 <div>
       <a href="https://reactjs.org/" target="_blank"> <img style="margin: 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> </a>
