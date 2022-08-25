@@ -75,8 +75,8 @@
    </tr>
 </table>
 
-## Some Programming Humor for you 😉
+## Some Programming Humor for you 😉 <br/>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=github_dark)
-![](https://komarev.com/ghpvc/?username=elcozy)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=github_dark) <br/>
+![](https://komarev.com/ghpvc/?username=elcozy)<br/>
 ![Profile last updated](https://img.shields.io/github/last-commit/elcozy/elcozy/master?label=Last%20updated&style=flat&color=120024)
