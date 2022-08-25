@@ -18,7 +18,7 @@
 <!-- - 🌱 I’m currently learning **NodeJS**  -->
 
 - 👯 I am open to collaborate on **interesting and fun projects**
-- 
+
 - 💬 Ask me about **Javascript and related technologies**
 
 - 📫 How to reach me: **Badges 👆🏽**
