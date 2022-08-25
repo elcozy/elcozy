@@ -78,5 +78,5 @@
 ## Some Programming Humor for you 😉
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=github_dark)
-
+![](https://komarev.com/ghpvc/?username=elcozy)
 ![Profile last updated](https://img.shields.io/github/last-commit/elcozy/elcozy/master?label=Last%20updated&style=flat&color=120024)
