@@ -20,8 +20,7 @@
 - 📫 How to reach me: **Badges 👆🏽**
 <br />
 
-## Languages and Tools
-## 💼 Technical Skills
+## 💼 Languages and Tools
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
@@ -51,8 +50,6 @@
 
 [![Elcozy's github stats](https://github-readme-stats.vercel.app/api?username=elcozy&show_icons=true&count_private=true&hide_border=true&theme=github_dark)](https://github.com/elcozy)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=github_dark) <br/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcozy&hide_border=true&hide=html&layout=compact&theme=github_dark)](https://github.com/elcozy)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=elcozy.elcozy)](https://www.yushi.dev/)
@@ -60,6 +57,7 @@
 
 ## Some Programming Humor for you 😉 <br/>
 
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=github_dark) <br/>
 
 ![](https://komarev.com/ghpvc/?username=elcozy)<br/>
 
