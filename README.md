@@ -48,25 +48,19 @@
 
 ## Github Stats
 
-<table>
-   <tr>
-      <td valign="top">
-         <img src="https://github-readme-stats.vercel.app/api?username=elcozy&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="left" style="width: 100%" />
-      </td>
-      <td valign="top">
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=elcozy&theme=react" align="left" style="width: 100%" />
-      </td>
-   </tr>
-   <tr>
-      <td valign="top" colspan="2">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcozy&hide_border=true&hide=html&layout=compact&theme=github_dark" align="left" style="width: 100%" />
-      </td>
-   </tr>
-</table>
+
+[![Elcozy's github stats](https://github-readme-stats.vercel.app/api?username=elcozy)](https://github.com/elcozy)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=github_dark) <br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcozy&layout=compact)](https://github.com/elcozy)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=elcozy.elcozy)](https://www.yushi.dev/)
+
 
 ## Some Programming Humor for you 😉 <br/>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=github_dark) <br/>
+
 ![](https://komarev.com/ghpvc/?username=elcozy)<br/>
-[![Visits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felcozy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://github.com/elcozy)
+
 ![Profile last updated](https://img.shields.io/github/last-commit/elcozy/elcozy/master?label=Last%20updated&style=flat&color=120024)
