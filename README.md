@@ -49,11 +49,11 @@
 ## Github Stats
 
 
-[![Elcozy's github stats](https://github-readme-stats.vercel.app/api?username=elcozy)](https://github.com/elcozy)
+[![Elcozy's github stats](https://github-readme-stats.vercel.app/api?username=elcozy&show_icons=true&count_private=true&hide_border=true&theme=github_dark)](https://github.com/elcozy)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=github_dark) <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcozy&layout=compact)](https://github.com/elcozy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcozy&hide_border=true&hide=html&layout=compact&theme=github_dark)](https://github.com/elcozy)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=elcozy.elcozy)](https://www.yushi.dev/)
 
