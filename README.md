@@ -52,13 +52,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcozy&hide_border=true&hide=html&layout=compact&theme=github_dark)](https://github.com/elcozy)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=elcozy.elcozy)](https://www.yushi.dev/)
+[![](https://visitor-badge.glitch.me/badge?page_id=elcozy.elcozy)](https://www.yushi.dev/)
 
 
 ## Some Programming Humor for you 😉 <br/>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=github_dark) <br/>
-
-![](https://komarev.com/ghpvc/?username=elcozy)<br/>
 
 ![Profile last updated](https://img.shields.io/github/last-commit/elcozy/elcozy/master?label=Last%20updated&style=flat&color=120024)
