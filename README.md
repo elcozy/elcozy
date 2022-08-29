@@ -49,7 +49,7 @@
 </div>
 
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcozy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcozy)](https://github.com/elcozy/github-readme-stats)
 
 
 ## Github Stats
