@@ -52,6 +52,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcozy&hide_border=true&hide=html&layout=compact&theme=github_dark)](https://github.com/elcozy)
 
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=elcozy&theme=react)](https://github.com/elcozy)
+
 [![](https://visitor-badge.glitch.me/badge?page_id=elcozy.elcozy)](https://www.yushi.dev/)
 
 
