@@ -11,7 +11,7 @@
 <br/>
 
 - 👯 I am open to collaborate on **interesting and fun projects**
-- 💬 Ask me about **Javascript and related technologies**
+- 💬 Ask me about **JS, TS and related technologies**
 - 📫 How to reach me: **Badges 👆🏽**
 <br />
 ## 💼 Languages and Tools
