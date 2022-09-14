@@ -35,13 +35,14 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 <br/>
 
+<!-- 
 ## Github Stats
 
 [![Elcozy's github stats](https://github-readme-stats.vercel.app/api?username=elcozy&show_icons=true&count_private=true&hide_border=true&theme=github_dark)](https://github.com/elcozy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcozy&hide_border=true&hide=html&layout=compact&theme=github_dark)](https://github.com/elcozy)
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=elcozy&theme=react)](https://github.com/elcozy)
 [![](https://visitor-badge.glitch.me/badge?page_id=elcozy.elcozy)](https://www.yushi.dev/)
-
+-->
 
 ## Some Programming Humor for you 😉 <br/>
 
