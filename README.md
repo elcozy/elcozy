@@ -1,4 +1,4 @@
-### Hi there,  👋
+### Hi there👋, welcome to my profile
 
 <!-- **elcozy/elcozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -10,7 +10,6 @@
 <br /> -->
 
 ## Languages and Tools 💼
-
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
@@ -29,7 +28,6 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 <br/>
-
 <!-- 
 ## Github Stats
 
@@ -38,11 +36,8 @@
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=elcozy&theme=react)](https://github.com/elcozy)
 [![](https://visitor-badge.glitch.me/badge?page_id=elcozy.elcozy)](https://www.yushi.dev/)
 -->
-
 ## Some Programming Humor for you 😉 <br/>
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=github_dark) <br/>
-<br/>
 ![](https://komarev.com/ghpvc/?username=elcozy)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat&logoColor=white&link=https://www.linkedin.com/in/chiemekam/)](https://www.linkedin.com/in/chiemekam/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?logo=medium&style=flat&logoColor=white&link=https://www.medium.com/@elcozy/)](https://www.medium.com/@elcozy)
