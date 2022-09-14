@@ -1,12 +1,8 @@
-### Hi there 👋
+### Hi there,  👋
 
 <!-- **elcozy/elcozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Connect with me: -->
-![](https://komarev.com/ghpvc/?username=elcozy)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat&logoColor=white&link=https://www.linkedin.com/in/chiemekam/)](https://www.linkedin.com/in/chiemekam/)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?logo=medium&style=flat&logoColor=white&link=https://www.medium.com/@elcozy/)](https://www.medium.com/@elcozy)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&style=flat&logoColor=white&link=https://www.hackerrank.com/elcozy/)](https://www.hackerrank.com/elcozy)
 <!-- 
 - 👯 I am open to collaborate on **interesting and fun projects**
 - 💬 Ask me about **JS, TS and related technologies**
@@ -46,4 +42,9 @@
 ## Some Programming Humor for you 😉 <br/>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=github_dark) <br/>
+<br/>
+![](https://komarev.com/ghpvc/?username=elcozy)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat&logoColor=white&link=https://www.linkedin.com/in/chiemekam/)](https://www.linkedin.com/in/chiemekam/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?logo=medium&style=flat&logoColor=white&link=https://www.medium.com/@elcozy/)](https://www.medium.com/@elcozy)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&style=flat&logoColor=white&link=https://www.hackerrank.com/elcozy/)](https://www.hackerrank.com/elcozy)
 ![Profile last updated](https://img.shields.io/github/last-commit/elcozy/elcozy/master?label=Last%20updated&style=flat&color=120024)
