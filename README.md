@@ -14,7 +14,7 @@
 - 💬 Ask me about **JS, TS and related technologies**
 - 📫 How to reach me: **Badges 👆🏽**
 <br /> -->
-## 💼 Languages and Tools
+## Languages and Tools 💼
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
