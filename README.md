@@ -7,13 +7,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat&logoColor=white&link=https://www.linkedin.com/in/chiemekam/)](https://www.linkedin.com/in/chiemekam/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?logo=medium&style=flat&logoColor=white&link=https://www.medium.com/@elcozy/)](https://www.medium.com/@elcozy)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&style=flat&logoColor=white&link=https://www.hackerrank.com/elcozy/)](https://www.hackerrank.com/elcozy)
-</div>
-<br/>
 <!-- 
 - 👯 I am open to collaborate on **interesting and fun projects**
 - 💬 Ask me about **JS, TS and related technologies**
 - 📫 How to reach me: **Badges 👆🏽**
 <br /> -->
+
 ## Languages and Tools 💼
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
