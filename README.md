@@ -9,11 +9,11 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&style=flat&logoColor=white&link=https://www.hackerrank.com/elcozy/)](https://www.hackerrank.com/elcozy)
 </div>
 <br/>
-
+<!-- 
 - 👯 I am open to collaborate on **interesting and fun projects**
 - 💬 Ask me about **JS, TS and related technologies**
 - 📫 How to reach me: **Badges 👆🏽**
-<br />
+<br /> -->
 ## 💼 Languages and Tools
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
